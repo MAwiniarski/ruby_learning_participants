@@ -58,3 +58,5 @@ Change log:
 Cheers,
 ashbb (Satoshi Asakawa)
 http://rubylearning.org
+
+Some changes to file.
